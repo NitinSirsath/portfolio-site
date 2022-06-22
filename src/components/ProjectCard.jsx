@@ -5,7 +5,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import PreviewIcon from '@mui/icons-material/Preview';
-import { Button, CardActionArea, CardActions } from '@mui/material';
+import {CardActionArea, CardActions } from '@mui/material';
 import { CardLinks } from '../styles/ProjectStyles';
 
 export default function ProjectCard({element}) {
